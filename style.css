@@ -106,15 +106,12 @@ tbody tr:hover {
     background-color: #e9ecef;
 }
 
-<<<<<<< HEAD
 select {
     padding: 8px;
     border-radius: 4px;
     border: 1px solid #ccc;
 }
 
-=======
->>>>>>> 08c9b88c36cd53ea8716d98296f0aa86032f2a84
 .actions {
     display: flex;
     gap: 6px;
